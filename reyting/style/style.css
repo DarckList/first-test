@@ -1,0 +1,58 @@
+
+.border{
+	display: inline-block;
+	margin: 20px; 
+	width: 95%;
+	height: 40px;
+	background: #909497;
+	border-radius: 10px;
+	color: white;
+	font: 24px Arial;
+}
+
+
+.numeric{
+	line-height: 40px;
+	height: 40px;
+	float: left;
+	display: inline-block;
+	width: 100px;
+	border-radius: 10px 0 0 10px;
+	background: #A3C741;
+	text-align: center;
+}
+
+.mines{
+	margin-right: 10px;
+	margin-top: 5px; 
+	line-height: 27px;
+	width: 27px;
+	height: 27px;
+	float: right;
+	border-radius: 10px;
+	background-color: #B63636;
+	box-shadow: 0 0 5px 1px black;
+	text-align: center;
+}
+
+.number{
+	float: right;
+	line-height: 27px;
+	height: 27px;
+	margin-right: 10px;	 
+	margin-top: 5px; 
+	text-align: center;
+}
+
+.plus{ 
+	float: right;
+	margin-right: 20px;
+	margin-top: 5px; 
+	line-height: 27px;
+	height: 27px;
+	width: 27px;
+	border-radius: 10px; 
+	background: #9DC538;
+	box-shadow: 0 0 5px 1px black;
+	text-align: center;
+}

@@ -1,0 +1,39 @@
+img{
+position: relative;
+}
+
+.main{
+  display: inline-block;
+  position: absolute;
+  height: 380px;
+  width: 600px;
+}
+
+.circles{
+  position: absolute;
+  bottom: 20px;
+  left: 245px;
+  
+}
+
+.circles>div {
+
+  float: left;
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+  background: black;
+  box-shadow: 0 0 0 1px white;
+  border: 1px solid #8D9190;
+  border-radius: 50px;
+}
+
+.circles div:hover{
+  background-color: red;
+  border: 1px solid #FFB9B9;
+  box-shadow: 0 0 10px 4px white;
+}
+
+
+
+

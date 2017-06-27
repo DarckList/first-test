@@ -1,0 +1,16 @@
+div{
+  width: 100px;
+  height: 100px;
+  background: #ECF5E4;
+  border-radius: 100px;
+  line-height: 100px;
+  text-align: center; 
+  font-size: 35px;
+  border: 25px solid #95CD8B;
+   border-right: 24px solid #D0E6BB;
+}
+
+
+span{
+  font-size: 20px;
+}

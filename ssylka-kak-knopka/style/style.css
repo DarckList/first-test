@@ -1,0 +1,16 @@
+div{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+a{
+  border: 1px solid black;
+  padding: 10px 20px;
+  color: black;
+  text-decoration-line: none;
+}
+
+a:hover{
+  color: red;
+  background: linear-gradient(to bottom, #FBFEF3, #EAEACF);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}

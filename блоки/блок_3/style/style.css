@@ -1,0 +1,44 @@
+body{
+	font-family: Arial;
+}
+
+
+.title{
+	margin-top: 10px;
+	margin-left: 10px; 
+	display: inline-block;
+     border-radius: 10px 10px 0 0;
+     box-shadow: 0 0 10px #000;
+	font-size: 30px;
+}
+.title1{
+	border: 1px solid #A3D869;
+	background: #C9E39C;
+	max-width: 250px;
+	border-bottom: none;
+	position: relative;
+	margin-bottom: -1px;
+	padding: 5px;
+	text-align: center;
+	z-index: 1;
+	
+	
+}
+
+.text{
+	margin-left: 10px; 
+	margin-right: 40px;
+	border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 10px #000;
+}
+
+.text1 {
+	padding: 5px;
+	min-height: 110px;
+	border: 1px solid #A3D869;
+	background: #c9e39c;
+	border-radius: 0 0 5px 5px;
+	position: relative;
+	font-size: 20px;
+
+}

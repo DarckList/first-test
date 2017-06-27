@@ -1,0 +1,51 @@
+
+.block{
+	margin-top: 20px;
+	width: 400px;
+	background-color: #0690CF;
+	color: white;
+	border: 5px solid #0075B2;
+}
+
+.block h1{
+	padding-left: 30px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid white;
+}
+
+.email{
+	margin: 20px;
+	margin-bottom: 0px;
+	font-size: 20px;
+}
+
+.email input{
+	width: 92%;
+}
+
+.password{
+	margin-left: 20px;
+
+	font-size: 20px;
+	display: inline-block;
+}
+
+.password input{
+	width: 150px;
+}
+.re_password{
+	padding-top: -20px;
+	margin: 20px;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.re_password input{
+	width: 150px;
+}
+
+button{
+	margin: 20px;
+	height: 30px;
+	background: #FFDF7F;
+}

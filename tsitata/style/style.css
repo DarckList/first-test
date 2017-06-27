@@ -1,0 +1,22 @@
+blockquote {
+	width:300px;
+	position:relative;
+}
+
+blockquote:before, blockquote:after {
+	font-size: 35px;
+	position: absolute;
+	color: #890001;
+}
+
+blockquote:before{
+	content: "«";
+	margin-left: -20px;
+	margin-top: -15px;
+}
+
+blockquote:after{
+	content: "»";
+	margin-top: -48px;
+	margin-left: 120px;
+}

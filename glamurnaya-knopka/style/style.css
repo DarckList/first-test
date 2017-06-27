@@ -1,0 +1,15 @@
+.glam_button{
+  width: 160px;
+  height: 40px;
+  line-height: 40px;
+  background: linear-gradient(#FFACD2, #FFC8E1, #FFACD2);
+  box-shadow: 
+        0 0 0 1px white,
+        0 0 0 2px #FFAED3,
+        0 0 0 3px #FFB0D4,
+        0 0 0 4px white,
+        0 0 20px 1px #bab3b2;
+  border-radius: 20px;
+  text-align: center;
+
+}

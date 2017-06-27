@@ -1,0 +1,43 @@
+
+body{
+	background-color: black;
+	font: 15px arial;
+	padding: 10px 40px;		
+
+}
+
+div{
+	background: linear-gradient(#FEFEFE, #EFEFEF, #DFDFDF);
+	border-radius: 0 0 10px 10px;
+
+
+	height: 250px;
+	width: 400px;
+	padding: 7px 11px;
+	overflow: hidden;
+	margin: 0px;
+
+}
+
+h1{
+	background-color: black;
+	height: 44px;
+	position: relative;
+	top: -8px;
+	left: -25px;
+	transform: skewX(-30deg);
+	width: 130px;
+	color: #FFB163;
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+span{
+		text-align: center;
+		display: block;
+		transform: skewX(30deg);
+
+}
