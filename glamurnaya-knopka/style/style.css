@@ -1,7 +1,8 @@
 .glam_button{
   width: 160px;
-  height: 40px;
-  line-height: 40px;
+  height: 30px;
+  display: inline-block;
+  padding-top: 10px;
   background: linear-gradient(#FFACD2, #FFC8E1, #FFACD2);
   box-shadow: 
         0 0 0 1px white,

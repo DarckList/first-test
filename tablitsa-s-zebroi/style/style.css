@@ -4,76 +4,29 @@
     border-collapse: collapse;
     border-spacing: 0;
    }
-   .lux th {
+    th {
     background: #a52a2a;
     color: white; 
-   }
-   .lux td { 
-    border-bottom: 1px solid #A52A2A;
-   }
-   .lux td, .lux th {
     padding: 4px;
    }
-  td{
+    td { 
+    border-bottom: 1px solid #A52A2A;
     text-align: center;
-  }
+    padding: 4px;
+   }
+   
 
   td:nth-child(1){
     text-align: left;
   }
   
-   tr:nth-child(2){
+   tr:nth-child(even){
     background: #FFFFF0;
    }
 
   
- tr:nth-child(3){
+ tr:nth-child(odd){
     background: #FFF8DC;
    }
    
-   tr:nth-child(4){
-    background: #FFFFF0;
-   }
 
-   tr:nth-child(5){
-    background: #FFF8DC;
-   } .lux { 
-    width: 300px;
-    border: 1px solid #a52a2a;
-    border-collapse: collapse;
-    border-spacing: 0;
-   }
-   .lux th {
-    background: #a52a2a;
-    color: white; 
-   }
-   .lux td { 
-    border-bottom: 1px solid #A52A2A;
-   }
-   .lux td, .lux th {
-    padding: 4px;
-   }
-  td{
-    text-align: center;
-  }
-
-  td:nth-child(1){
-    text-align: left;
-  }
-  
-   tr:nth-child(2){
-    background: #FFFFF0;
-   }
-
-  
- tr:nth-child(3){
-    background: #FFF8DC;
-   }
-   
-   tr:nth-child(4){
-    background: #FFFFF0;
-   }
-
-   tr:nth-child(5){
-    background: #FFF8DC;
-   }

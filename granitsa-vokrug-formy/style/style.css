@@ -7,22 +7,16 @@
   border: 1px solid black;
   background: #E1E3B8;
   z-index: -2;
+  font: bold 14px sans-serif;
 }
 
 .title{
-   
   width: 140px;
   height: 16px;
   margin-left: 10px;
   color: #B98F5C;
-  font: bold 14px sans-serif;
   font-size: 16px;
 }
-
-p{
-  font: bold 14px sans-serif;
-}
-
 
 img{
   position: fixed;
@@ -31,12 +25,12 @@ img{
 }
 
 .allRadio{
-
+  margin-left: 20%;
 }
 
-input{
-  margin-left: 150px;
-  margin-bottom: 20px; 
+li{
+  list-style: none;
+  margin-bottom: 20px;
 }
 
 input:last-child{
